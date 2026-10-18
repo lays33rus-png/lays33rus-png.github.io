@@ -1,0 +1,31 @@
+export const cours = [
+  {
+    id: 1,
+    title: "Фортепиано",
+    link: "/Piano"
+  },
+  {
+    id: 2,
+    title: "Гитара",
+    link: "/guitar"
+  },
+  {
+    id: 3,
+    title: "Скрипка",
+    link: "/violin"
+  },
+  {
+    id: 4,
+    title: "Саксофон",
+  },
+  {
+    id: 5,
+    title: "Вокал",
+    link: "/vocals"
+  },
+  {
+    id: 6,
+    title: "Балалайка",
+  }
+
+]
